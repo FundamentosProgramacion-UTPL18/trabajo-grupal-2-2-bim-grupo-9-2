@@ -1,0 +1,28 @@
+Crear una clase que represente estudiantes con los atributos:
+nombres
+apellidos
+edad
+calificacion1
+calificacion2
+
+Crear una clase principal con los arreglos siguientes
+
+["José", "María", "Ana", "Paul", "David"]
+["Yaguana", "Benitez", "Gaviria", "Davila", "Andrade"]
+[20, 19, 20, 19, 25]
+[9.1, 10, 8, 7, 9.1]
+[6.1, 5, 10, 7.2, 4.1]
+
+Donde, las posiciones entre los arreglos se relacionan.
+
+En base a los arreglos, crear una arreglo de Estudiantes:
+
+1.- Agregarle valores al arreglo Estudiantes
+
+2.- Presentar por cada estudiante un reporte
+
+José Yaguana
+Edad - 20
+Calificacion 1: 9.1
+Calificacion 2: 6.1
+Promedio: ?
